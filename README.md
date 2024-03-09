@@ -17,7 +17,7 @@ To run the recommendation engine locally, follow these steps:
 1. Clone this repository to your local machine.
 2. Install the required dependencies by running `pip install -r requirements.txt`.
 3. Ensure that the CSV files containing book and user data (`Books.csv` and `Book-Ratings.csv`) are placed in the appropriate directory.
-4. Run the main script `recommendation_system.py` to start the recommendation engine.
+4. Run the main script `test_module` to start the recommendation engine.
 
 ## Usage
 Once the recommendation engine is running, follow these steps to use it:
