@@ -25,9 +25,6 @@ Contributions to this project are welcome! If you have any ideas, suggestions, o
 
 Please ensure that your contributions adhere to the project's coding standards and guidelines.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Acknowledgements
 - This project was developed as part of Sheffield Hallam University's course on Big Data Analytics.
 - Special thanks to the instructors for their valuable feedback and support.
