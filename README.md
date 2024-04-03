@@ -20,11 +20,5 @@ Once the recommendation engine is running, follow these steps to use it:
 4. Experiment with different similarity measures to observe how they affect the generated recommendations.
 5. Provide feedback or suggestions for improving the recommendation engine.
 
-## Contributing
-Contributions to this project are welcome! If you have any ideas, suggestions, or bug fixes, feel free to open an issue or submit a pull request. 
-
-Please ensure that your contributions adhere to the project's coding standards and guidelines.
-
 ## Acknowledgements
 - This project was developed as part of Sheffield Hallam University's course on Big Data Analytics.
-- Special thanks to the instructors for their valuable feedback and support.
