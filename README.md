@@ -1,14 +1,14 @@
 # Intelligent Service Recommendation Engine
 
 ## Overview
-This repository contains the source code for an Intelligent Service Recommendation Engine, which provides recommendations for users based on their preferences and interactions with the system. The recommendation engine employs various similarity measures and collaborative filtering techniques to generate personalized recommendations.
+This repository contains the source code for an Intelligent Service Recommendation Engine, which provides recommendations for users based on their preferences and interactions with the system. The recommendation engine employs various similarity measures and collaborative filtering techniques to generate personalised recommendations.
 (this was an assessment that needed to be done without any libraries imported)
 
 ## Features
 - **User Interface:** Provides an interactive interface for users to browse recommendations, view book details, and explore different similarity measures.
-- **Data Loading:** Loads book and user data from CSV files, allowing users to analyze ratings and generate recommendations.
+- **Data Loading:** Loads book and user data from CSV files, allowing users to analyse ratings and generate recommendations.
 - **Similarity Measures:** Implements different similarity measures such as Pearson correlation coefficient, cosine similarity, and Minkowski distance to calculate similarities between users or books.
-- **Recommendation Generation:** Generates personalized recommendations for users based on their preferences and interactions with the system.
+- **Recommendation Generation:** Generates personalised recommendations for users based on their preferences and interactions with the system.
 - **Error Handling:** Includes robust error handling to gracefully handle missing or invalid data.
 
 ## Usage
